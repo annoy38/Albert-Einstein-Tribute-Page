@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Lato:wght@300&family=PT+Sans+Narrow&display=swap');
+.holeBody{
+    background-color: rgba(202, 202, 202, 0.753);
+}
+.firstHead{
+    text-align: center;
+    color: rgb(107, 120, 194);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secondHead{
+
+    color: green;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+.image{
+    position: relative;
+    right: -42%;
+    width: 210px;
+    height: 300px;
+}
+.pera1{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgba(41, 41, 41, 0.808);
+}
+.pera2{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: rgba(41, 41, 41, 0.808);
+}
+.tableInfo{
+    color: rgb(41, 41, 41, 0.808);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.quote{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+    font-size: small;
+}
+.lastLine{
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    margin-left: 15px;
+    font-size: 18px;
+}
+.lastLine span{
+    color: rgb(72, 72, 233);
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
